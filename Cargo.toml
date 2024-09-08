@@ -1,0 +1,8 @@
+[package]
+name = "HabitTool"
+version = "0.1.0"
+authors = ["Reuben Cornel <reuben.cornel@gmail.com>"]
+
+[dependencies]
+rustc-serialize = "0.3.22"
+getopts = "0.2.21"
